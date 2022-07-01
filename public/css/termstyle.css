@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" );
+.faq-header {
+    font-size: 42px;
+    border-bottom: 1px dotted #ccc;
+    padding: 24px;
+    text-align: center;
+  }
+  /*for contact*/
+  h3{
+ 
+    font-size: 24px;
+    Color: black;
+
+  }
+.Contact-info{
+  Border:3px solid #FF6701;
+    background-color: #FFC288;
+    padding: 34px 19px;
+    margin: 14px 19px;
+    border-radius: 23px;
+    width: 533px;
+    
+}
+.infobox div{
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+  
